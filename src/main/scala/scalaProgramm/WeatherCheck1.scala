@@ -1,3 +1,5 @@
+package scalaProgramm
+
 // Define an object (like a class with static methods) named WeatherCheck
 object WeatherCheck1 {
 

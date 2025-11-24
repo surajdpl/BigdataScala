@@ -1,3 +1,5 @@
+package scalaProgramm
+
 object VariableExample {
   def main(args: Array[String]): Unit = {
 

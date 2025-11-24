@@ -1,3 +1,5 @@
+package scalaProgramm
+
 object sum {
 def main(args: Array[String]): Unit =
   {

@@ -1,3 +1,5 @@
+package scalaProgramm
+
 import scala.language.postfixOps
 
 // Define a singleton object named 'loop'

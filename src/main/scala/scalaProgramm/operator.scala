@@ -1,3 +1,5 @@
+package scalaProgramm
+
 object operator {
 def  main(args :Array [String]): Unit =
   {

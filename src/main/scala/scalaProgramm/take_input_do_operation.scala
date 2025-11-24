@@ -1,3 +1,5 @@
+package scalaProgramm
+
 import scala.io.StdIn._
 object take_input_do_operation {
   def main(args: Array[String]): Unit = {

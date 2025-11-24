@@ -1,4 +1,6 @@
-object day9 {
+package scalaProgramm
+
+object day9_while {
   def main(args: Array[String]): Unit =
     // {
     //    val friends =Array("AAA","BBB","CCC","DDD","EEE")

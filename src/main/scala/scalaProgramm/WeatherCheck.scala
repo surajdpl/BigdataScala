@@ -1,3 +1,5 @@
+package scalaProgramm
+
 object WeatherCheck {
   def main(args: Array[String]): Unit = {
 

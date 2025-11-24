@@ -1,3 +1,5 @@
+package scalaProgramm
+
 object WeatherTupleExample {
   def main(args: Array[String]): Unit = {
 
